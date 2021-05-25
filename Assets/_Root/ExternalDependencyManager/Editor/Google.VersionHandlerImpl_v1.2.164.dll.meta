@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 22acf3bbb2af4d298d430b1b06f2a869
+guid: c260ec63954e4c0c8a54d0c24c82db68
 labels:
 - gvh
-- gvh_version-1.2.163
-- gvhp_exportpath-ExternalDependencyManager/Editor/Google.JarResolver_v1.2.163.dll
+- gvh_version-1.2.164
+- gvhp_exportpath-ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.164.dll
 - gvhp_targets-editor
 timeCreated: 1480838400
 PluginImporter:
