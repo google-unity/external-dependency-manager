@@ -8,9 +8,9 @@
 ```
 or
 
-+ version 1.2.162
++ version 1.2.166
 ```csharp
-"com.google.external-dependency-manager": "https://github.com/Gamee-Studio/external-dependency-manager.git?path=Assets/_Root#1.2.162",
+"com.google.external-dependency-manager": "https://github.com/Gamee-Studio/external-dependency-manager.git?path=Assets/_Root#1.2.166",
 ```
 
 To `Packages/manifest.json`
