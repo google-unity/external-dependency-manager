@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 1389d4e5961e4a32a8a2afa6477b6713
+guid: 3ed19a202c4b4b439183dc00efee3c4a
 labels:
 - gvh
-- gvh_version-1.2.168
-- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.168/Google.IOSResolver.dll
+- gvh_version-1.2.169
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.169/Google.PackageManagerResolver.dll
 - gvhp_targets-editor
 timeCreated: 1480838400
 PluginImporter:
