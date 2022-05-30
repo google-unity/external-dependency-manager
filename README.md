@@ -1,4 +1,4 @@
-#How To Install
+# How To Install
 
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
 
