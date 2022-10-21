@@ -4,5 +4,5 @@
 
 + version 1.2.173
 ```csharp
-"com.google.external-dependency-manager": "https://github.com/pancake-llc/external-dependency-manager.git?path=Assets/_Root#1.2.173",
+"com.google.external-dependency-manager": "https://github.com/google-unity/external-dependency-manager.git?path=Assets/_Root#1.2.173",
 ```
