@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 8cb29863f3964e40814d9df74984377f
+guid: 753aaec3e0ac4f9fb0afb39856ef8113
 labels:
 - gvh
-- gvh_version-1.2.167
-- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.167/Google.VersionHandlerImpl.dll.mdb
+- gvh_version-1.2.168
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.168/Google.IOSResolver.dll.mdb
 - gvhp_targets-editor
 timeCreated: 1538009133
 licenseType: Pro
@@ -13,5 +13,7 @@ DefaultImporter:
   assetBundleVariant:
 PluginImporter:
   platformData:
-    Editor:
+  - first:
+      Editor: Editor
+    second:
       enabled: 1
