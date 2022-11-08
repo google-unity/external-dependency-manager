@@ -2,8 +2,8 @@
 
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
 
-for version `1.2.168`
+for version `1.2.169`
 
 ```csharp
-"com.google.external-dependency-manager": "https://github.com/google-unity/external-dependency-manager.git#1.2.168",
+"com.google.external-dependency-manager": "https://github.com/google-unity/external-dependency-manager.git#1.2.169",
 ```
